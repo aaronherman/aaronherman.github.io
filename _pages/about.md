@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: About
+title: About Me
 permalink: /about.html
 ---
 My name is Aaron and I work at IBM as a DevOps Engineer.
