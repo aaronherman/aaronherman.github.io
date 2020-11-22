@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : "Aaron Herman"
-description              : "DevOps Engineer and aspiring DevSecOps Engineer. I care about the intersection of technology and our society."
+description              : "DevOps Engineer in cyber security and aspiring infosec professional. I care about the intersection of technology and our society."
 url                      : "https://aaronherman.co/"
 baseurl                  : #"/blog"
 repository               : "aaronherman/aaronherman.github.io"
@@ -108,9 +108,9 @@ analytics:
 author:
   name             : "Aaron Herman"
   avatar           : "/assets/images/photo.png"
-  bio              : "DevOps Engineer and aspiring DevSecOps Engineer. I care about the intersection of technology and our society."
+  bio              : "DevOps Engineer in cyber security and aspiring infosec professional. I care about the intersection of technology and our society."
   location         : "United States"
-  email            : 
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
