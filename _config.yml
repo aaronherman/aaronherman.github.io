@@ -114,7 +114,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: aaron@aaronherman.co
+      url: "mailto:aaron@aaronherman.co"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://aaronherman.co"
